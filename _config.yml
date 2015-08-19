@@ -24,9 +24,9 @@ avatar: http://7xl7o9.com1.z0.glb.clouddn.com/zdxdanbo.jpg
 favicon: http://7xl7o9.com1.z0.glb.clouddn.com/zdxfavicon.png.png
 
 # google analytics 设置
-#ga:
-#  id: UA-54767140-1
-#  url: yansu.org
+ga:
+  id: UA-66507952-1
+  url: zdx.link
 
 # disqus 设置
 disqus:
