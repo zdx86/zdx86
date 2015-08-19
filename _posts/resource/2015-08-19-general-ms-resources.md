@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 办公 常用资源
+title: 办公常用资源
 category: 资源
 tags: ms
 keywords: ms
 ---
 
-来源：[MADN,我告诉你](http://itellyou.cn/)
+来源：[MSDN,我告诉你](http://itellyou.cn/)
 
 <br/>
 
