@@ -16,7 +16,7 @@ title: Welcome to zdx.link!
 ## 订阅号
 下面的二维码是我的个人订阅号，会定期推动一些自己的思考，欢迎关注。
 
-![欢迎关注zdx-it](http://7xl7o9.com1.z0.glb.clouddn.com/zdxqrcode.jpg)
+&nbsp;&nbsp;![欢迎关注zdx-it](http://7xl7o9.com1.z0.glb.clouddn.com/zdxqrcode.jpg)
 
 ## 说明
 此博客原型参照[闫肃的博客](http://yansu.org)通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。感谢[闫肃的博客](http://yansu.org)。
