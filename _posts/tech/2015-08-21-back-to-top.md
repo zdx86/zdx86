@@ -35,7 +35,8 @@ description: 慕课网，回到顶部效果@http://www.imooc.com/learn/65
 
 #### 代码如下：
 
-HTML:
+HTML：
+
 	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 	<html>
 		<head>
@@ -51,7 +52,58 @@ HTML:
 		</body>
 	</html>	
 
+CSS：
 
-### 注意问题
+	.box{width: 1349px; margin: 0 auto}
+	#btn{width: 40px; height: 40px; display:none; position: fixed; left: 50%; margin-left: 600px; bottom: 30px; background: url(top_bg.png) no-repeat left top;}
+	#btn:hover{background:url(top_bg.png) no-repeat left -40px}
+
+Js：
+
+
+	//页面加载完毕后触发
+	window.onload = function(){
+		var obtn = document.getElementById('btn');
+		//获取页面可视区的高度
+		var clientHeight = document.documentElement.clientHeight;
+		console.log("可视区域高度" + clientHeight);
+		var timer = null;
+		var isTop = true;
+	
+		//滚动条滚动时触发
+		window.onscroll = function(){
+			var osTop = document.documentElement.scrollTop || document.body.scrollTop;
+			if(osTop >= clientHeight){
+				obtn.style.display = 'block';
+			}else{
+				obtn.style.display = 'none';
+			}
+			
+			if(!isTop){
+				clearInterval(timer);
+			}
+			isTop = false;
+		}
+	
+		obtn.onclick = function(){
+			alert(clientHeight);
+			//设置定时器
+			timer = setInterval(
+					function(){
+						//获取滚动条距离顶部的距离
+						var osTop = document.documentElement.scrollTop || document.body.scrollTop;
+						var ispeed = Math.floor(-osTop / 6);
+	
+						isTop = true;
+						document.documentElement.scrollTop = document.body.scrollTop = osTop + ispeed;
+						//console.log(osTop - ispeed);
+						if(osTop == 0){
+							clearInterval(timer);
+						}
+					},30);
+		}
+	}
+
+### 注意问题总结
 
 To Be Continue!
