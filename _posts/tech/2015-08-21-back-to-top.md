@@ -11,6 +11,7 @@ description: 慕课网，回到顶部效果@http://www.imooc.com/learn/65
 
    优点：简单快速，没有兼容性问题
    缺点：视觉上不够直观，用户体验不够好
+
 2.JavaScript实现
 
 ### 主要知识点
@@ -33,9 +34,10 @@ description: 慕课网，回到顶部效果@http://www.imooc.com/learn/65
 #### 源码链接：<a href="http://codepen.io/zdx/pen/yNdzLj">http://codepen.io/zdx/pen/yNdzLj</a>
 
 #### 代码如下：
-HTML
+
+HTML:
 	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-		<html>
+	<html>
 		<head>
 			<title>backTop</title>
 			<link rel="stylesheet" type="text/css" href="style.css" />
