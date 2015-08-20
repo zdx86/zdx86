@@ -5,6 +5,7 @@ category: 技术
 tags: 技术
 description: 慕课网，回到顶部效果@http://www.imooc.com/learn/65
 ---
+来源：http://www.imooc.com/learn/65
 
 ### 两种实现方式
 1.锚链接实现  `<a href="#"></a>`
