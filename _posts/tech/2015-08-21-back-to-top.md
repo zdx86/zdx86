@@ -11,12 +11,12 @@ description: 慕课网，回到顶部效果@http://www.imooc.com/learn/65
 `<a href="#"></a>`
 
 优点：简单快速，没有兼容性问题
-
 缺点：视觉上不够直观，用户体验不够好
 
 - JavaScript实现
 
 ### 主要知识点
+
 #### DOM操作
 - `document.getElementById()` 根据ID获取标签元素
 - `document.documentElement.scrollTop` 获取滚动条上沿距离顶部的高度值
