@@ -45,8 +45,13 @@ HTML:
 		</head>
 		<body>
 			<div class="box">
-				<img src="tb.png" />
+				<img src="http://7xl7o9.com1.z0.glb.clouddn.com/zdxtb_bg.jpg" />
 			</div>
 			<a href="javascript:;" id="btn" title="回到顶部"></a>	<!-- javascript:; ————> 阻止默认返回顶部行为 -->
 		</body>
 	</html>	
+
+
+### 注意问题
+
+To Be Continue!
