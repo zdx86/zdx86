@@ -8,7 +8,7 @@ description: 慕课网，回到顶部效果@http://www.imooc.com/learn/65
 
 ### 两种实现方式
 - 锚链接实现
-`<a href="#"></a>`
+	`<a href="#"></a>`
 
 优点：简单快速，没有兼容性问题
 缺点：视觉上不够直观，用户体验不够好
@@ -31,6 +31,7 @@ description: 慕课网，回到顶部效果@http://www.imooc.com/learn/65
 - `clearInterval()` 关闭定时器，需传1个参数
 
 ### 实现代码
+
 #### 源码链接：<a href="http://codepen.io/zdx/pen/yNdzLj">http://codepen.io/zdx/pen/yNdzLj</a>
 
 #### 代码如下：
