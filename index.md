@@ -14,7 +14,7 @@ title: Welcome to zdx.link!
 另外，[人人都应该会写点东西](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=208521535&idx=1&sn=29fdb7770a7b262f820ef3eaa6a3ac9c&scene=5&srcid=jKHIvCuAptsW5qPVqCp5#rd)，难道不是吗？另外，建立这个博客，并采用现在这种形式，就是想让自己静静地多写点东西。克骄克燥，慎独自省！
 
 ## 订阅号
-下面的二维码是我的个人订阅号，会定期推动一些自己的思考，欢迎关注。
+下面的二维码是我的个人订阅号，会不定期推动一些自己的思考，欢迎关注。
 
 &nbsp;&nbsp;![欢迎关注zdx-it](http://7xl7o9.com1.z0.glb.clouddn.com/zdxqrcode.jpg)
 
