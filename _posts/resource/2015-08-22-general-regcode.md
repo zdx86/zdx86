@@ -61,3 +61,10 @@ keywords: code
 打开`Help`-`Enter License`-将上述code任选一个粘贴-`Use License`-成功！
 
 ![Sublime Text 3 注册码](http://7xl7o9.com1.z0.glb.clouddn.com/zdxst3r.png)
+
+### Editplus 注册码
+
+	用户名：Free User 
+	注册码：6AC8D-784D8-DDZ95-B8W3A-45TFA
+
+另附：在线生成器 [http://www.jb51.net/tools/editplus/](http://www.jb51.net/tools/editplus/)
