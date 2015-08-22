@@ -9,7 +9,9 @@ keywords: code
 本文专门放置平常使用的一些软件的注册码，满足咱屌丝的刚需。
 
 ### Sublime Text 3 注册码
+
 #### code 1
+
 	—– BEGIN LICENSE —–
 	Andrew Weber
 	Single User License
@@ -23,7 +25,9 @@ keywords: code
 	5CDB7036 E56DE1C0 EFCC0840 650CD3A6
 	B98FC99C 8FAC73EE D2B95564 DF450523
 	—— END LICENSE ——
+
 #### code 2
+
 	—– BEGIN LICENSE —–
 	K-20
 	Single User License
@@ -37,7 +41,9 @@ keywords: code
 	B094B9C0 FAA4B04C 06CC9AFC FD412671
 	82E3AEE0 0F0FAAA7 8FA773C9 383A9E18
 	—— END LICENSE ——
+
 #### code 3
+
 	—– BEGIN LICENSE —–
 	J2TeaM
 	2 User License
