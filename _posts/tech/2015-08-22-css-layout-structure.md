@@ -24,7 +24,6 @@ description: 慕课网，CSS进行网页布局@http://www.imooc.com/learn/57
 		<title>一列布局</title>
 		<style>
 			body{ margin:0; padding:0;/*清除默认样式*/}
-			div{ text-align:center; font-weight:bold}
 			.head, .main, .footer{ width:960px; margin:0 auto}
 			.head{ height:100px; background:#ccc}
 			.main{ height:600px; background:#FCC}
