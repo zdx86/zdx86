@@ -16,9 +16,12 @@ description: 慕课网，CSS进行网页布局@http://www.imooc.com/learn/57
 分栏。又称为`分列`，常见布局有一列、二列、三列等以及混合布局。
 
 ### 一列布局
+
 往往作为网站的首页，不适合放置多行文本。一般都是固定宽度。
 
+
 #### 一列固定
+
 
 	<!DOCTYPE html>
 	<html>
@@ -40,13 +43,17 @@ description: 慕课网，CSS进行网页布局@http://www.imooc.com/learn/57
 		</body>
 	</html>
 
+
 #### 一列自适应
+
 
 	.head, .main, .footer{width:80%;margin:0 auto}
 
 ### 二列布局
 
+
 #### 二列自适应
+
 
 	<div class="left">left</div>
 	<div class="right">right</div>
@@ -56,7 +63,9 @@ description: 慕课网，CSS进行网页布局@http://www.imooc.com/learn/57
 	.left{ width:20%; height:600px; background:#ccc; float:left}
 	.right{ width:80%; height:600px; background:#FCC; float:right}
 
+
 #### 二列居中自适应
+
 
 	<div class="main">
 	    <div class="left">left</div>
@@ -69,17 +78,23 @@ description: 慕课网，CSS进行网页布局@http://www.imooc.com/learn/57
 	.left{ width:20%; height:600px; background:#ccc; float:left}
 	.right{ width:80%; height:600px; background:#FCC; float:right}
 
+
 #### 二列居中固定
+
 
 	.main{ width:960px; height:600px; margin:0 auto}
 	.left{ width:300px; height:600px; background:#ccc; float:left}
 	.right{ width:660px; height:600px; background:#FCC; float:right}
 
+
 ### 三列布局
+
 
 注意此时需用`position`，使用`float`达不到效果
 
+
 #### 三列自适应
+
 
 	<div class="left">left</div>
     <div class="main">main</div>
@@ -91,13 +106,17 @@ description: 慕课网，CSS进行网页布局@http://www.imooc.com/learn/57
 	.main{ height:600px; margin:0 20%; background:#9CF}
 	.right{ height:600px; width:20%; position:absolute; top:0; right:0; background:#FCC;}
 
+
 #### 三列左右固定
+
 
 	.left{ width:240px; height:600px; background:#ccc; position:absolute; left:0; top:0}
 	.main{ height:600px; margin:0 240px; background:#9CF}
 	.right{ width:240px;height:600px;  position:absolute; top:0; right:0; background:#FCC;}
 
+
 ### 混合布局
+
 
 #### 混合1
 
