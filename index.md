@@ -21,4 +21,12 @@ title: Welcome to zdx.link!
 ## 说明
 此博客原型参照[闫肃的博客](http://yansu.org)通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。感谢[闫肃的博客](http://yansu.org)。
 
+## 相关链接
+- [todoit](https://todoit.github.io/)
+- [NNN-blog](http://blog.rakuhi.com/)
+- [Anotherhome](https://www.anotherhome.net/)
+- [闫肃的博客](http://yansu.org/)
+- [墨坊](http://lyeec.me/)
+- [张大侠](http://zhangdaxia.cn) `之前的网站`
+
 我博客的源码托管在[Github](https://github.com/zdx86/zdx86.github.io)上，如果有任何改进意见，欢迎讨论。
