@@ -8,6 +8,7 @@
 \*---------------------------------*/
 @font-face {
   font-family: "fontello";
+  font-family: "Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
   src: url("../font/fontello.eot");
   src: url("../font/fontello.eot#iefix") format("embedded-opentype"), url("../font/fontello.woff") format("woff"), url("../font/fontello.ttf") format("truetype"), url("../font/fontello.svg#fontello") format("svg");
   font-weight: normal;
@@ -15,6 +16,7 @@
 
 .fontello, .post__toc-li:before {
   font-family: "fontello";
+  font-family: "Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
   speak: none;
   font-variant: normal;
   text-transform: none;
