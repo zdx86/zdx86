@@ -362,7 +362,7 @@ a {
   -webkit-overflow-scrolling: touch; }
   #post ::selection {
     color: white;
-    /*background: #33caa6;*/
+    background: #6600FF;
     text-shadow: none; }
   #post ::-moz-selection {
     color: white;
