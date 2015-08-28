@@ -1,9 +1,9 @@
 permalink: /:year/:month/:day/:title.html
-markdown: kramdown
+markdown: redcarpet
 pygments: true
 
-kramdown:
-  input: GFM
+redcarpet:
+  extensions: []
 
 # 作者信息
 author: 
