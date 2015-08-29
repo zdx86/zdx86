@@ -11,7 +11,7 @@ window.onload = function{
     var str = $('.pl__title')[i].innerText;
     if(str.length > 18){
       $('.pl__title')[i].innerText = str.substr(0, 18);
-      $('.pl__title')[i].innerText += " ... "
+      $('.pl__title')[i].innerText += " ... ";
     }
   }
 }
