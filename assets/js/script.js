@@ -5,8 +5,9 @@
    https://github.com/P233/3-Jekyll
 \*---------------------------------*/
 
+
 $(window).load(function{
-  console.log("test");
+  $("div").text("Image loaded");
 });
 
 
