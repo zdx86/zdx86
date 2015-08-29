@@ -7,8 +7,8 @@
 
 
 for(var i=0; i < $('.pl__title').length; i++){
-  if($('.pl__title')[i].innerText.length > 18){
-    $('.pl__title')[i].innerText = $('.pl__title')[i].innerText.substr(0, 18) + " ... "; 
+  if($('.pl__title')[i].innerText.length > 25){
+    $('.pl__title')[i].innerText = $('.pl__title')[i].innerText.substr(0, 25) + " ... "; 
   }
 }
 
