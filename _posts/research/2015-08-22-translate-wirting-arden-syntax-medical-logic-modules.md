@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIRTING ARDEN SYNTAX MEDICAL LOGIC MODULES
+title: 雅顿语法-如何表示医学知识
 category: 科研
 tags: Arden Syntax
 keywords: Arden Syntax
