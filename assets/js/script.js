@@ -5,17 +5,10 @@
    https://github.com/P233/3-Jekyll
 \*---------------------------------*/
 
-
-window.onload = function{
+$(window).load(function{
   console.log("test");
-  for(int i=0;i<$('.pl__title').length;i++){
-    var str = $('.pl__title')[i].innerText;
-    if(str.length > 18){
-      $('.pl__title')[i].innerText = str.substr(0, 18);
-      $('.pl__title')[i].innerText += " ... ";
-    }
-  }
-}
+});
+
 
 
 
