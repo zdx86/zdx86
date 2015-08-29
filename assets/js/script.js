@@ -5,6 +5,19 @@
    https://github.com/P233/3-Jekyll
 \*---------------------------------*/
 
+
+window.onload = function{
+  for(int i=0;i<$('.pl__title').length;i++){
+    var str = $('.pl__title')[i].innerText;
+    if(str.length > 18){
+      $('.pl__title')[i].innerText = str.substr(0, 18);
+      $('.pl__title')[i].innerText += " ... "
+    }
+  }
+}
+
+
+
 // Detect window size, if less than 1280px add class 'mobile' to sidebar therefore it will be auto hide when trigger the pjax request in small screen devices.
 if ($(window).width() <= 1280) {
   $('#sidebar').addClass('mobile')
