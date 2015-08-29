@@ -1246,3 +1246,9 @@ pre > code {
   color: #2aa198; }
 
 /* Literal.Number.Integer.Long */
+
+
+/*modified by zdx.link @20150829*/
+span.delete-line{
+	text-decoration: line-through;
+}
