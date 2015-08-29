@@ -7,6 +7,7 @@
 
 
 window.onload = function{
+  console.log("test");
   for(int i=0;i<$('.pl__title').length;i++){
     var str = $('.pl__title')[i].innerText;
     if(str.length > 18){
