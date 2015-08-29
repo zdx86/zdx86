@@ -6,14 +6,11 @@
 \*---------------------------------*/
 
 
-
-  for(int i=0;i<$('.pl__title').length;i++){
-    var str = $('.pl__title')[i].innerText;
-    if(str.length > 18){
-      $('.pl__title')[i].innerText = str.substr(0, 18);
-      $('.pl__title')[i].innerText += " ... ";
-    }
+for(var i=0; i < $('.pl__title').length; i++){
+  if($('.pl__title')[i].innerText.length > 18){
+    $('.pl__title')[i].innerText = $('.pl__title')[i].innerText.substr(0, 18) + " ... "; 
   }
+}
 
 
 // Detect window size, if less than 1280px add class 'mobile' to sidebar therefore it will be auto hide when trigger the pjax request in small screen devices.
