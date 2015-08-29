@@ -18,8 +18,8 @@ title: Welcome to zdx.link!
 
 &nbsp;&nbsp;![欢迎关注zdx-it](http://7xl7o9.com1.z0.glb.clouddn.com/zdxqrcode.jpg)
 
-## 说明
-此博客原型参照[闫肃的博客](http://yansu.org)通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。感谢[闫肃的博客](http://yansu.org)。
+## 我的微博秀
+<iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=0&speed=0&skin=5&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=2952932404&verifier=a70f421c&dpc=1"></iframe>
 
 ## 相关链接
 - [todoit](https://todoit.github.io/)
@@ -28,5 +28,11 @@ title: Welcome to zdx.link!
 - [闫肃的博客](http://yansu.org/)
 - [墨坊](http://lyeec.me/)
 - [张大侠](http://zhangdaxia.cn) `之前的网站`
+
+
+## 说明
+此博客原型参照[闫肃的博客](http://yansu.org)通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。感谢[闫肃的博客](http://yansu.org)。
+
+
 
 我博客的源码托管在[Github](https://github.com/zdx86/zdx86.github.io)上，如果有任何改进意见，欢迎讨论。
