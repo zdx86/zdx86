@@ -5,7 +5,7 @@
    https://github.com/P233/3-Jekyll
 \*---------------------------------*/
 
-
+console.log("欢迎访问我的网站，我的微信公众号是zdx-it，敬请关注！");
 for(var i=0; i < $('.pl__title').length; i++){
   if($('.pl__title')[i].innerText.length > 18){
     $('.pl__title')[i].innerText = $('.pl__title')[i].innerText.substr(0, 18) + " ... "; 
