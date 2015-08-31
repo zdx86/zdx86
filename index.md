@@ -27,6 +27,7 @@ title: Welcome to zdx.link!
 - [Anotherhome](https://www.anotherhome.net/)
 - [闫肃的博客](http://yansu.org/)
 - [墨坊](http://lyeec.me/)
+- [枳](http://fiona23.github.io/)
 - [张大侠](http://zhangdaxia.cn) `之前的网站`
 
 
