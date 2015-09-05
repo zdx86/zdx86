@@ -1,11 +1,13 @@
----
-title : Sitemap
----
-
-{% for page in site.pages %}
-  {{site.address}}{{ page.url }}
-{% endfor %}
-
-{% for post in site.posts %}
-  {{site.address}}{{ post.url }}
-{% endfor %}
+http://zdx.link/
+http://zdx.link/index.html
+http://zdx.link/2015/08/19/cli.im.html
+http://zdx.link/2015/08/19/general-ms-resources.html
+http://zdx.link/2015/08/19/old-article.html
+http://zdx.link/2015/08/19/todolist.html
+http://zdx.link/2015/08/21/back-to-top.html
+http://zdx.link/2015/08/22/css-layout-structure.html
+http://zdx.link/2015/08/22/general-regcode.html
+http://zdx.link/2015/08/22/translate-wirting-arden-syntax-medical-logic-modules.html
+http://zdx.link/2015/08/29/read.html
+http://zdx.link/2015/08/31/new-domain.html
+http://zdx.link/2015/09/05/todolist.html
