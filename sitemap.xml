@@ -1,83 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
-<!-- Free Sitemap Generator http://www.sitemapx.com -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 <url>
-<loc>http://zdx.link/</loc>
-<priority>1.0</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/index.html</loc>
-<priority>0.8</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/index.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/19/cli.im.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/09/05/todolist.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/19/general-ms-resources.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/31/new-domain.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/19/old-article.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/29/read.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/19/todolist.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/22/translate-wirting-arden-syntax-medical-logic-modules.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/21/back-to-top.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/22/general-regcode.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/22/css-layout-structure.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/22/css-layout-structure.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/22/general-regcode.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/21/back-to-top.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/22/translate-wirting-arden-syntax-medical-logic-modules.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/19/todolist.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/29/read.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/19/old-article.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/08/31/new-domain.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/19/general-ms-resources.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 <url>
-<loc>http://zdx.link/2015/09/05/todolist.html</loc>
-<priority>0.2</priority>
-<lastmod>2015-09-05T09:55:39+00:00</lastmod>
-<changefreq>Always</changefreq>
+  <loc>http://zdx.link/2015/08/19/cli.im.html</loc>
+  <lastmod>2015-09-05T12:02:43+00:00</lastmod>
+  <changefreq>always</changefreq>
 </url>
 </urlset>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://zdx.link/</title>
+  <link>http://zdx.link/</link>
+
+<item>
+     <link>http://zdx.link/</link>
+     <title>Welcome to zdx.link! | 张大侠的博客</title>
+     <description>Welcome to zdx.link! | 张大侠的博客</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/index.html</link>
+     <title>Welcome to zdx.link! | 张大侠的博客</title>
+     <description>Welcome to zdx.link! | 张大侠的博客</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/09/05/todolist.html</link>
+     <title>2015年9月-To Do List | 张大侠的博客</title>
+     <description>2015年9月-To Do List</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/31/new-domain.html</link>
+     <title>.love域名注册之新域名console.love | 张大侠的博客</title>
+     <description>.love域名注册</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/29/read.html</link>
+     <title>2015 阅读清单 | 张大侠的博客</title>
+     <description>2015 阅读清单 | 张大侠的博客</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/22/translate-wirting-arden-syntax-medical-logic-modules.html</link>
+     <title>雅顿语法-如何表示医学知识 | 张大侠的博客</title>
+     <description>雅顿语法-如何表示医学知识 | 张大侠的博客</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/22/general-regcode.html</link>
+     <title>各类注册码【亲测】 | 张大侠的博客</title>
+     <description>各类注册码【亲测】 | 张大侠的博客</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/22/css-layout-structure.html</link>
+     <title>CSS进行网页布局 | 张大侠的博客</title>
+     <description>慕课网，CSS进行网页布局@http://www.imooc.com/learn/57</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/21/back-to-top.html</link>
+     <title>回到顶部效果 | 张大侠的博客</title>
+     <description>慕课网，回到顶部效果@http://www.imooc.com/learn/65</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/19/todolist.html</link>
+     <title>2015年8月-To Do List | 张大侠的博客</title>
+     <description>2015年8月-To Do List</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/19/old-article.html</link>
+     <title>以前文章存档 | 张大侠的博客</title>
+     <description>将以前的文章做个备份</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/19/general-ms-resources.html</link>
+     <title>办公常用资源 | 张大侠的博客</title>
+     <description>办公常用资源 | 张大侠的博客</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://zdx.link/2015/08/19/cli.im.html</link>
+     <title>优秀小工具汇总 | 张大侠的博客</title>
+     <description>汇集经常用到的一些小工具</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
